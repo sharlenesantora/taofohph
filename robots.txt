@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://yaicoomei.happilyeverarmstrong.us/sitemap.xml
